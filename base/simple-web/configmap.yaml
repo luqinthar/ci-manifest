@@ -4,5 +4,4 @@ metadata:
   name: simple-web-config
   namespace: default
 data:
-  config.yaml: |
-    # Your config here
+  welcomeMessage: "Welcome to Simple Web App!"
